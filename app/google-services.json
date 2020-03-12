@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52702721476",
+    "firebase_url": "https://amigosenmarcha-d3299.firebaseio.com",
+    "project_id": "amigosenmarcha-d3299",
+    "storage_bucket": "amigosenmarcha-d3299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52702721476:android:408e8e8c629eac2c7a6091",
+        "android_client_info": {
+          "package_name": "com.bonobostudios.amigosenmarcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52702721476-u88e2347naekmngebcad0clemrgfnvnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bonobostudios.amigosenmarcha",
+            "certificate_hash": "08e8e361ea16a12057e885c123d4a2aed8b27e8b"
+          }
+        },
+        {
+          "client_id": "52702721476-uob2v71m8fcejpsjtqlkkiu36ku7b40b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhhwsMURKiujr5Zz1LEQ1LwK5N6fiZNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52702721476-uob2v71m8fcejpsjtqlkkiu36ku7b40b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

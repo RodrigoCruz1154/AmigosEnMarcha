@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view_main">
+
+    <group android:visible="true">
+        <item
+            android:id="@+id/nav_main_test"
+            android:icon="@drawable/ic_account"
+            android:title="Perfil" />
+        <item
+        android:id="@+id/nav_tools"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Ajustes" />
+        <item
+            android:id="@+id/nav_cerrar"
+            android:icon="@drawable/ic_close_sesion"
+            android:title="Cerrar Sesión" />
+
+    </group>
+
+</menu>
